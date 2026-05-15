@@ -14,7 +14,7 @@ I've got experience in the following technologies and I'm open for work:
 
 
 📫 You can contact me on:
- - Email: kabombr@gmail.com
- - Discord: lukz#0158
+ - Email: lucaslopeslukz@gmail.com
+ - Discord: luuuukz
 
 
