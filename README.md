@@ -6,8 +6,8 @@ I've got experience in the following technologies and I'm open for work:
 - Javascript
 - Node.js
 - Express
-- React
-- MongoDB
+- React, React Native
+- NoSql
 - Sql
 - Python
 
