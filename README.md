@@ -16,7 +16,7 @@ React · Next.js · Node.js · PostgreSQL · TypeScript
 
 ---
 
-<img src="https://github-readme-stats-azure-eight-74.vercel.app/api?username=LuKzuX&show_icons=true&hide_border=true&count_private=true" height="160" />
+<img align="center" src="https://github-readme-stats-azure-eight-74.vercel.app/api?username=LuKzuX&show_icons=true&hide_border=true&count_private=true" height="160" />
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=LuKzuX&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" />
