@@ -16,10 +16,7 @@ React · Next.js · Node.js · PostgreSQL · TypeScript
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LuKzuX&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="160" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LuKzuX&layout=compact&hide_border=true&theme=default&langs_count=6" height="160" />
-</p>
+<img src="https://seu-projeto.vercel.app/api?username=LuKzuX&show_icons=true&hide_border=true&count_private=true" height="160" />
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=LuKzuX&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" />
