@@ -16,7 +16,6 @@ React · Next.js · Node.js · PostgreSQL · TypeScript
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats-azure-eight-74.vercel.app/api?username=LuKzuX&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="160" />
   <img src="https://github-readme-stats-azure-eight-74.vercel.app/api/top-langs/?username=LuKzuX&layout=compact&hide_border=true&langs_count=6" height="160" />
 </p>
 <p align="center">
